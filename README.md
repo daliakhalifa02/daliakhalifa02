@@ -1,9 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Dalia Khalifa</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 
+- 🌱 I’m currently learning **Html, CSS, JavaScript**
 
-- 🌱 I’m currently learning **and developing my programming skills**
+- 💬 Ask me about **Pyhton**
 
 - 📫 How to reach me **daliakhalifa02@gmail.com**
 
