@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dalia Khalifa</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 
+![Uploading gif.gif…]()
 - 🌱 I’m currently learning **Html, CSS, JavaScript**
 
 - 💬 Ask me about **Pyhton**
