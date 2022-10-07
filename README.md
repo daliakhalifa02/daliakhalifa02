@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="[demo](https://user-images.githubusercontent.com/112481407/194665398-08ec3334-1ead-44eb-9c3f-b1cb778f3265.gif)" alt="gif2" />
+  <img src="https://user-images.githubusercontent.com/112481407/194665398-08ec3334-1ead-44eb-9c3f-b1cb778f3265.gif" alt="animated" />
 </p>
 - 🌱 I’m currently learning **Html, CSS, JavaScript**
 
