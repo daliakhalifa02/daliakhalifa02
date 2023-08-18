@@ -6,10 +6,6 @@
   <img src="https://user-images.githubusercontent.com/112481407/194665398-08ec3334-1ead-44eb-9c3f-b1cb778f3265.gif" alt="animated" />
 </p>
 
-- 🌱 I’m currently learning **React, Laravel, JavaScript**
-
-- 💬 Ask me about **Html, CSS, Pyhton**
-
 - 📫 How to reach me **daliakhalifa02@gmail.com**
 
 <h1 align="center">Hi 👋, I'm Dalia Khalifa</h1>
